@@ -24,3 +24,16 @@
 .header_left img{
     display: block;
 }
+.header_right ul{
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 20px;
+
+}
+.header_right li{
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+}
